@@ -1,0 +1,34 @@
+body {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    }
+body {
+    background-color: rgb(160, 167, 170);
+}
+
+h1 {
+    font-size:xx-large;d
+    }
+h1, h2 {
+    text-align: center;
+}
+
+img {  
+    max-width: 50%;  
+    height: auto;  
+    }  
+
+h1, h2  {
+    color: blue;
+    text-decoration: underline;
+}
+div {
+    max-width: 50%;
+}
+
+p {
+    line-height: 20pt;
+}
+
+div {
+    line-height: 20pt;
+}
